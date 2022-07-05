@@ -6,9 +6,9 @@ I'm studying on Domain-Driven-Programming and trying to implement it without IoC
 
 # Domains
 ```
-			StudyMapService
+            StudyMapService
                    |
   (StudyUnitStatusMutator Interface)
                    |
-			LearningService
+            LearningService
 ```
